@@ -1,0 +1,5 @@
+# Default for all files in this repo. Later entries take precedence.
+*   @acerons @ginaarlyn @cesarvillegase @gsantiagor @labh04
+
+# This goes last, to protect all CODEOWNERS files
+CODEOWNERS  @acerons @ginaarlyn @cesarvillegase @gsantiagor @labh04
